@@ -3,7 +3,8 @@
 ### Motivation
 TFI is the Taiwanese Financial Institution and it offers credit cards. It has been detecting an increase in defaults among its customers. This situation is negatively affecting the revenue of the company and they know they can do something about it if they could anticipate which credit card holders are going to default on their next payment. The management from TFI have stated that for them it is important not only to predict which customers will default, but they would like to know why they are defaulting. Hence, the purpose behind this project includes answer to following questions:
   > 1. How does the probability of default payment vary by categories of different demographic variables?
-  > 2. Which variables are the strongest predictors of default payment?
+  > 2. What age group do people with high lines of credit belong to?
+  > 3. Which variables are the strongest predictors of default payment?
 
 
 ### Libraries Used
