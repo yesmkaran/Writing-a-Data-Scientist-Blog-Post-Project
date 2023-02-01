@@ -23,3 +23,5 @@ The libraries that are used in the project are as follows -
 
 ### Acknowledgements
 Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.  
+A fantastic book (Grokking Machine Learning) by Luis Serrano  
+Took inspiration from a couple of kaggle notebooks, including  by HARISH FEGADE. 
