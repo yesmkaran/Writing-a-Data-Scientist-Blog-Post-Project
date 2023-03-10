@@ -7,6 +7,8 @@ TFI is the Taiwanese Financial Institution and it offers credit cards. It has be
   > 3. Which variables are the strongest predictors of default payment?
 
 
+The link to the medium post can be found [here](https://medium.com/@kr.patel.419/what-makes-a-credit-card-holder-default-4e5d3fc3f631).
+
 ### Libraries Used
 The libraries that are used in the project are as follows - 
 - Numpy
